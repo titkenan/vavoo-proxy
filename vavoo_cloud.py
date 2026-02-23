@@ -1,4 +1,4 @@
-﻿from flask import Flask, Response, jsonify, request
+from flask import Flask, Response, jsonify, request
 import requests
 import threading
 from datetime import datetime, timedelta
